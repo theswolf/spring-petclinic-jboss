@@ -1,0 +1,6 @@
+<classloading xmlns="urn:jboss:classloading:1.0"
+  name="petclinic.ear"
+  domain="PetClinicParentDomain"
+  import-all="false"
+  parent-first="false">
+</classloading>
